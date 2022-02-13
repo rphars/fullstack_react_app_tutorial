@@ -1,4 +1,4 @@
-{
+f{
   "name": "fullstack_react_app_tutorial",
   "version": "1.0.0",
   "description": "",
@@ -19,13 +19,5 @@
     "url": "https://github.com/rphars/fullstack_react_app_tutorial/issues"
   },
   "homepage": "https://github.com/rphars/fullstack_react_app_tutorial#readme",
-  "devDependencies": {
-    "concurrently": "^7.0.0",
-    "nodemon": "^2.0.15"
-  },
-  "dependencies": {
-    "cookie-parser": "^1.4.6",
-    "express": "^4.17.2",
-    "pg": "^8.7.3"
-  }
+  "dependencies": {}
 }
