@@ -1,0 +1,31 @@
+{
+  "name": "fullstack_react_app_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rphars/fullstack_react_app_tutorial.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "rphars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rphars/fullstack_react_app_tutorial/issues"
+  },
+  "homepage": "https://github.com/rphars/fullstack_react_app_tutorial#readme",
+  "devDependencies": {
+    "concurrently": "^7.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2",
+    "pg": "^8.7.3"
+  }
+}
